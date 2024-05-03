@@ -8,7 +8,7 @@ I discovered my passion for programming after completing my undergraduate degree
 
 * 🌍  I'm based in Bucharest, Romania
 * ✉️  You can contact me at [eduardstefanpaltanea@gmail.com](mailto:eduardstefanpaltanea@gmail.com)
-* 🧠  I'm learning Algorithms, Machine Learning, Data Science
+* 🧠  I'm learning Algorithms, Data Science, Web Development, Working with APIs, Web Scraping, Automation
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
